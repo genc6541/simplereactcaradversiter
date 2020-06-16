@@ -1,3 +1,9 @@
+Login information;
+
+username: admin    password:12345
+username: user     password:0000
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
